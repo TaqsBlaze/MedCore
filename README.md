@@ -168,7 +168,7 @@ This project is licensed under the MIT License.
 
 ## 🙏 Acknowledgments
 
-- Built with [Amen CLI](https://github.com/your-username/amen-cli)
+- Built with [Amen CLI](https://github.com/TaqsBlaze/amen-cli)
 - Powered by Flask
 
 ---
