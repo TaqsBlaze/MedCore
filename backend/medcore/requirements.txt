@@ -1,0 +1,12 @@
+flask
+flask-cors
+python-dotenv
+pytest
+pytest-cov
+pyjwt
+flask-sqlalchemy
+sqlalchemy
+pymysql
+# Database dependencies
+SQLAlchemy>=2.0.0
+mysqlclient>=2.0.0
